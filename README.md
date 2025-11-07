@@ -127,4 +127,4 @@ Solution of test problem: 2823.79
 
 ## Visualization  
 
-Has been added a sample visualization showing **fitness progression** across some runs for each problem size (different number of cities).  
+Has been added a sample plot showing **fitness progression** across some runs for each problem size (different number of cities).  
